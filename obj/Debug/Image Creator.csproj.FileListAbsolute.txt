@@ -1,0 +1,15 @@
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\Image Creator.exe.config
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\Image Creator.exe
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\Image Creator.pdb
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\System.Drawing.Common.dll
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\obj\Debug\Image Creator.csprojAssemblyReference.cache
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\obj\Debug\Image_Creator.Form1.resources
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\obj\Debug\Image_Creator.Properties.Resources.resources
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\obj\Debug\Image Creator.csproj.GenerateResource.cache
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\obj\Debug\Image Creator.csproj.CopyComplete
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\obj\Debug\Image Creator.exe
+C:\Users\iebal\Desktop\Szakdolgozat\Image Creator\Image Creator\obj\Debug\Image Creator.pdb
